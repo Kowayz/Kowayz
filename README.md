@@ -2,9 +2,8 @@
 📊 Mes Statistiques TryHackMe
 Voici ma progression en temps réel sur TryHackMe :
 
-<a href="https://tryhackme.com/p/Kowiz">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/6931692.png" alt="TryHackMe Badge" />
-</a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kowiz.png" alt="TryHackMe Badge">
+
 
 <!--
 **Kowayz/Kowayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
